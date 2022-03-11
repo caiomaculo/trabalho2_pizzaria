@@ -1,0 +1,80 @@
+@charset "urf-8";
+/*CSS Document*/
+
+body  {
+background-color: #E30513 ;
+}
+
+#menu{
+	top: 0;
+	width: 100%;
+	background-color: #042A5E;
+	padding: 5px;
+	font-family: 'Roboto', sans-serif;
+}
+#menu h2{
+	font-size: 5px;
+
+}
+#menu img {
+	color: white;
+}
+
+#imgprincipal{
+	height: auto;
+	width: auto;
+}
+#imgprincipal img{
+	height: auto;
+	width: auto;
+	background-size: cover;
+	top: 0px;
+}
+.nav-item a{
+	color: #FFFFFF;
+}
+.nav-item a:hover{
+    color: #E30513;
+}
+
+#elementos {
+ margin: 0 auto;
+ margin-top: 30px;
+ margin-left: 50px;
+ margin-right: 50px;
+}
+
+#elementos a{
+background-color: #C91100;
+}
+
+#carouselExampleIndicators {
+	width: auto;
+	height: auto;
+	margin-bottom: 10px;
+}
+
+
+.rodape {
+	margin-top: 100px;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    background-color: #042A5E;
+    color: white;
+    padding: 20px;
+}
+
+/*FOMURLARIO CADASTRO*/
+
+#formcad {
+	margin-top: 10px;
+	margin-left: 20px;
+	max-width:700px;
+	max-height: 350px;
+	width: auto;
+	height: auto;
+}
+#formcad label{
+	color:white;
+}
